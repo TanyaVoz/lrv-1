@@ -1,0 +1,15 @@
+{
+    "name": "tanya/lrv-1",
+    "autoload": {
+        "psr-4": {
+            "Tanya\\Lrv1\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tanya",
+            "email": "voznyuk1998@mail.ru"
+        }
+    ],
+    "require": {}
+}
